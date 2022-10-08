@@ -1,0 +1,5 @@
+Empleado{idEmplado=1, primerNombre=Anita, segundoNombre=Sofia, primerApellido=Aguirre, fechaNacimiento=1999-02-08, id_Departamento=1}
+Empleado{idEmplado=2, primerNombre=Regina, segundoNombre=Guadalupe, primerApellido=Estrada, fechaNacimiento=2029-08-09, id_Departamento=2}
+Empleado{idEmplado=3, primerNombre=Amelie, segundoNombre=Maribel, primerApellido=Orozco, fechaNacimiento=2034-12-13, id_Departamento=3}
+Empleado{idEmplado=4, primerNombre=Esteban, segundoNombre=Emmanuel, primerApellido=Estrada, fechaNacimiento=2028-07-28, id_Departamento=4}
+Empleado{idEmplado=5, primerNombre=Beliberto, segundoNombre=Raùl, primerApellido=Ramirez, fechaNacimiento=1975-08-10, id_Departamento=5}
